@@ -2,6 +2,7 @@
 
   Flutter plugin to replace death error screen and getting possible solutions from github website.
 
+  ![me](https://github.com/ItachiUchiha0/fancy_error/blob/main/ezgif.com-gif-maker.gif)
 
 
 ## Getting Started
