@@ -11,7 +11,7 @@ Add this to pubspec.yaml
 
 ```dart
 dependencies:
-  fancy_death: ^0.0.1
+  fancy_death: ^0.0.1+1
 ```
 
 ### Usage
